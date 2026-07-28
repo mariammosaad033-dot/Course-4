@@ -1,3 +1,5 @@
+//Write a program to print your name on screen.
+
 #include <iostream>
 using namespace std;
 void PrintName(string name)
@@ -7,6 +9,6 @@ void PrintName(string name)
 
 int main()
 {
-	PrintName("Maryam Mosaad ");
+	PrintName("Maryam Mosaad");
 	return 0;
 }
