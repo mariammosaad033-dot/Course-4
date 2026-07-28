@@ -1,3 +1,4 @@
+//Write a program to ask the user to enter his/her name and print it on screen.
 #include <iostream>
 #include <string>
 using namespace std;
