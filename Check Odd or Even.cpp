@@ -1,4 +1,3 @@
-//Write a program to ask the user to enter a number, then Print "Odd" if its odd, Or "Even" if its even.
 #include <iostream>
 using namespace std;
 enum enNumberType{odd=1,even=2};
